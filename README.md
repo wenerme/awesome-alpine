@@ -1,7 +1,7 @@
 # Awesome Alpine
 A curated list of awesome Alpine linux libraries and software.
 
-Read in | [中文](./README-zh_CN.md) | [English](./README.md)
+Read in | [中文](./README.zh_CN.md) | [English](./README.md)
 
 
 ## Community

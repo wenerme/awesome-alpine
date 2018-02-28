@@ -1,7 +1,7 @@
 # Awesome Alpine
 一系列关于 Alpine linux 相关的内容.
 
-其他语言 | [中文](./README-zh_CN.md) | [English](./README.md)
+其他语言 | [中文](./README.zh_CN.md) | [English](./README.md)
 
 ## 社区
 
